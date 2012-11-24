@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="config.aORRG">C:\Users\young\Desktop\data.txt</entry>
+<entry key="config.markDup">C:\Users\young\Desktop\data.txt</entry>
+<entry key="config.bwa">C:\Users\young\Desktop\data.txt</entry>
+<entry key="config.gATK">C:\Users\young\Desktop\data.txt</entry>
+<entry key="config.divRead">C:\Users\young\Desktop\data.txt</entry>
+<entry key="config.samtools">C:\Users\young\Desktop\data.txt</entry>
+</properties>
